@@ -1,15 +1,13 @@
 
-void setup(){
-  //some of your code here
+
 void setup() {
 
 size(1000,1000);
 background(0, 255, 0);
 
 }
-}
-void draw(){
-  //more of your code here
+
+
 void draw() {
  
   //body
@@ -36,5 +34,5 @@ void draw() {
   //System.out.println(mouseY);
  
 }
-}
+
 
